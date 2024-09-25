@@ -2,10 +2,7 @@
 <h3 align="center">Saya manusia, berasal dari medan.</h3>
 <img align="right" alt="Coding" width="400" src ="https://gifdb.com/images/high/coding-animated-laptop-flow-stream-ja04010rm5o68zfk.webp">
 
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dafinffx&label=Profile%20views&color=0e75b6&style=flat" alt="dafinffx" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dafinffx" alt="dafinffx" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/dafindevtod" target="blank"><img src="https://img.shields.io/twitter/follow/dafindevtod?logo=twitter&style=for-the-badge" alt="dafindevtod" /></a> </p>
 
@@ -27,3 +24,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dafinffx&show_icons=true&locale=en&layout=compact" alt="dafinffx" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dafinffx&show_icons=true&locale=en" alt="dafinffx" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dafinffx&" alt="dafinffx" /></p>
